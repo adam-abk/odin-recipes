@@ -30,6 +30,19 @@ body {
     border-radius: 10px;
 }
 
+ol, ul {
+    padding-left: 10px;
+}
+
+a {
+    color: #FFF9FB;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .home-link {
     display: block;
     width: 100px;
@@ -40,22 +53,4 @@ body {
     border-radius: 5px;
     padding: 5px;
     margin: auto;
-
-}
-
-ol, ul {
-    padding-left: 10px;
-}
-
-a {
-    color: #FFF9FB;
-    text-decoration: none;
-}
-
-a:visited {
-    color: #FFF9FB;
-}
-
-a:hover {
-    text-decoration: underline;
 }
