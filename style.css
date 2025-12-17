@@ -25,3 +25,8 @@
     border: 3px solid #FFF9FB;
     border-radius: 10px;
 }
+
+.home-link {
+    display: block;
+    text-align: center;
+}
