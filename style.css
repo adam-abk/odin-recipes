@@ -2,6 +2,7 @@
     font-family: Cantarell, sans-serif;
     background-color: #121619;
     color: #FFF9FB;
+    box-sizing: border-box;
 }
 
 .main-heading {
@@ -18,7 +19,6 @@
 }
 
 .images {
-    box-sizing: border-box;
     display: block;
     margin: auto;
     width: 500px;
@@ -28,7 +28,15 @@
 
 .home-link {
     display: block;
+    width: 100px;
     text-align: center;
+    text-decoration: none;
+    background-color: #FFF9FB;
+    color: #121619;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;
+
 }
 
 ol, ul {
