@@ -30,3 +30,7 @@
     display: block;
     text-align: center;
 }
+
+ol, ul {
+    padding-left: 10px;
+}
