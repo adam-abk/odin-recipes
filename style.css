@@ -46,3 +46,16 @@ body {
 ol, ul {
     padding-left: 10px;
 }
+
+a {
+    color: #FFF9FB;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FFF9FB;
+}
+
+a:hover {
+    text-decoration: underline;
+}
