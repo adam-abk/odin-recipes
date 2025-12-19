@@ -54,3 +54,7 @@ a:hover {
     padding: 5px;
     margin: auto;
 }
+
+.home-link:hover {
+    background-color: #9f9f9f;
+}
